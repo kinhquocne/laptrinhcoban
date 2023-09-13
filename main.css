@@ -1,0 +1,13 @@
+.footer {
+    padding: 10px;
+    background-color: #0095ff;
+    color: white;
+}
+.topnav a {
+    background-color: #0095ff;
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+}
