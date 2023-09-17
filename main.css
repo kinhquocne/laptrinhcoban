@@ -2,6 +2,8 @@
     padding: 10px;
     background-color: #0095ff;
     color: white;
+    margin-bottom: 0%;
+    display:block;
 }
 .topnav a {
     background-color: #0095ff;
@@ -10,4 +12,8 @@
     text-decoration: none;
     font-size: 17px;
     display: block;
+}
+.topnav {
+    display: flex;
+    flex-direction: column;
 }
